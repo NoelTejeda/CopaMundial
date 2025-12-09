@@ -39,5 +39,5 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local:
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/copa-mundial.git
-   cd copa-mundial
+   git clone https://github.com/NoelTejeda/CopaMundial.git
+  
