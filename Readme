@@ -13,20 +13,25 @@ Una aplicación web interactiva para simular el sorteo y desarrollo de un torneo
 - **Efectos visuales**: 
   - Animación durante el sorteo con resaltado de jugadores.
   - Tamaño de fuente ajustable para mejor visibilidad.
+
+## 🎨 Capturas de Pantalla
+
 <div align="center">
-<img src="src/assets/SorteoEnCurso.png" alt="Descripción" width="400" />
-<img src="src/assets/SorteoRealizado.png" alt="Descripción" width="400" />
+  <img src="images/SorteoRealizado.png" alt="Sorteo en Curso" width="600" />
+  <img src="images/SorteoEnCurso.png" alt="Sorteo Realizado" width="600" />
 </div>
 
 
+---
 
 ## 🛠️ Tecnologías Utilizadas
-****
+
 - **React**: Biblioteca de JavaScript para construir la interfaz de usuario.
 - **Material-UI (MUI)**: Componentes de React para una interfaz atractiva y responsive.
 - **JavaScript (ES6+)**: Lógica de la aplicación.
 - **CSS-in-JS**: Estilos con la sintaxis de Material-UI.
-****
+
+---
 
 ## 📦 Instalación y Ejecución
 
@@ -36,24 +41,3 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local:
    ```bash
    git clone https://github.com/tu-usuario/copa-mundial.git
    cd copa-mundial
-
-## Pasos para la instalación en local:
-  ```bash
-     - Instalar las dependencias:
-        npm install  
-     - Iniciar la aplicación:
-        npm start
-     - Abre tu navegador y visita:
-        http://localhost: 5173
-  ````
-  ****
-
-✨ Mejoras Futuras
-* Agregar persistencia de datos (localStorage o backend).
-
-* Permitir editar los nombres de los jugadores.
-
-* Implementar un modo de edición para ajustar el torneo manualmente.    
-* Agregar sonidos y efectos durante el sorteo.
-
-* Mejorar la animación de las líneas del torneo.
