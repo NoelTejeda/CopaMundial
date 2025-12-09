@@ -17,8 +17,8 @@ Una aplicación web interactiva para simular el sorteo y desarrollo de un torneo
 ## 🎨 Capturas de Pantalla
 
 <div align="center">
-  <img src="images/SorteoRealizado.png" alt="Sorteo en Curso" width="600" />
-  <img src="images/SorteoEnCurso.png" alt="Sorteo Realizado" width="600" />
+  <img src="images/SorteoRealizado.png" alt="Sorteo en Curso" width="800" />
+  <img src="images/SorteoEnCurso.png" alt="Sorteo Realizado" width="800" />
 </div>
 
 
